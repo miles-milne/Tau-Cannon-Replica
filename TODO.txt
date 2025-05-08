@@ -1,0 +1,81 @@
+TODO 
+- Add thread to bell, front-heatsink-case, bell cover 
+- Add threads underneath where 
+- Add holes to front heatsink cover 
+- Add brackets to tube between bell and front heatsink
+	- A braket can be placed inside the front heatsink, if we split it down the mirror plane.
+	- Splitting the front heatsink in two would also allow us to fit the laser driver inside. 
+		- It would be best to split 
+- Add spacers to front-heasink case so that the heatsink stays in place. 
+	- If we hollow out the heatsink, a bracket can be added in there
+	- through hole threads could also be added, and be hidden by the hexagon-like geometry on the heatsink front cover
+
+
+- CAD the slots for the small tubing on the bell 
+
+- Make box cover look prettier 
+- Model the handle 
+- Model the small tubing 
+
+
+
+
+- should the bell cover be completely flat on the front side to allow for threads to be easily printed? 
+
+- Make assembly instructions so that you can confirm you can easily fit everything together 
+
+
+To model
+- raspberry pi 
+- motor 
+- motor hub 
+- power switch 
+- 18650 battery
+- 18650 battery case 
+- D cell battery
+- D cell case 
+- speaker
+- mp3 module board 
+- Slip ring 
+
+
+Decorations on sides
+- Blue bottle
+- Tube intake
+- PCB 
+- Key slot 
+- "DON'T OVERCHARGE" written on masking tape 
+- Other decals 
+
+
+To source
+- black flexible tubing 
+- decal stickers (can probably print at Emma's/Days. Look at "Very sexy" model for some other example stickers 
+	- "Ruler" thing
+	- Radiation warning 
+	- Blue bottle label 
+	- 
+- Light diffusing film 
+- speaker 
+
+
+
+
+Sub assemblies:
+- Bell
+- Front heatsink
+- Front box 
+- Top connecting bracket 
+	- Has grey press fit "caps" to simulate large bolts, as well as to hide the 
+	- connects front heatsink, front box, and back heatsink 	
+- bottom connecting bracket 
+- Spinning thingy 
+- Back heatsink
+- Gunstock & trigger mechanism 
+
+Isolated components 
+
+	
+- Tubing
+- Connecting tubes between bell and front heatsink 
+- Blue Bottle

@@ -16,7 +16,8 @@ TODO
 - Make box cover look prettier 
 - Model the handle 
 - Model the small tubing 
-
+- Create reference list
+- Create BOM
 
 
 
@@ -49,7 +50,7 @@ Decorations on sides
 
 
 To source
-- black flexible tubing 
+- black corruageted flexible tubing 
 - decal stickers (can probably print at Emma's/Days. Look at "Very sexy" model for some other example stickers 
 	- "Ruler" thing
 	- Radiation warning 
@@ -57,6 +58,7 @@ To source
 	- 
 - Light diffusing film 
 - speaker 
+- rubber handle grip 
 
 
 

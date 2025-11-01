@@ -30,6 +30,7 @@ To model
 - raspberry pi 
 - motor 
 - motor hub 
+- Motor controller PCB
 - power switch 
 - 18650 battery
 - 18650 battery case 
@@ -38,6 +39,8 @@ To model
 - speaker
 - mp3 module board 
 - Slip ring 
+- handle 
+- handle bracket 
 
 
 Decorations on sides
@@ -46,6 +49,7 @@ Decorations on sides
 - PCB 
 - Key slot 
 - "DON'T OVERCHARGE" written on masking tape 
+- Black Mesa logo 
 - Other decals 
 
 

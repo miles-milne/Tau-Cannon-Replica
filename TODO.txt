@@ -1,3 +1,31 @@
+TODO (13 Dec 2025)
+
+- Add spacer for motor
+- Add threads and holes to boxes and box covers respectively
+- Make holes in top bracket square 
+- Add holes to back generator cover and back-box-cover to make tightening the set screws easier 
+
+
+
+- Sticker decals
+- Model and find a place to fit 
+	- Power button
+	- speakers
+	- MP3 module
+	- MCU
+	- Laser module driver
+	- Battery pack
+- Make laser 
+- Make backstock and trigger functional
+- Add slots for thin copper tubes
+- Model handle 
+- Add slots for flexible tubing 
+
+
+
+
+
+
 TODO 
 - Add thread to bell, front-heatsink-case, bell cover 
 - Add threads underneath where 
@@ -10,6 +38,11 @@ TODO
 	- If we hollow out the heatsink, a bracket can be added in there
 	- through hole threads could also be added, and be hidden by the hexagon-like geometry on the heatsink front cover
 
+
+- Hollow out the brackets so wires can fit through them 
+
+- Figure out how to add slots for acrylic/diffusing film to generator case/covers
+- Figure out how to mount heatsinks to heatsink cases! 
 
 - CAD the slots for the small tubing on the bell 
 
@@ -28,8 +61,6 @@ TODO
 
 To model
 - raspberry pi 
-- motor 
-- motor hub 
 - Motor controller PCB
 - power switch 
 - 18650 battery
@@ -75,13 +106,12 @@ Sub assemblies:
 	- Has grey press fit "caps" to simulate large bolts, as well as to hide the 
 	- connects front heatsink, front box, and back heatsink 	
 - bottom connecting bracket 
-- Spinning thingy 
+- Generator (Spinning thingy) 
 - Back heatsink
 - Gunstock & trigger mechanism 
 
 Isolated components 
 
-	
 - Tubing
 - Connecting tubes between bell and front heatsink 
 - Blue Bottle
